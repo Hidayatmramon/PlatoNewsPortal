@@ -5,6 +5,7 @@ import Navbar from '@/Components/Navbar';
 import NewsList from '@/Components/Homepage/Newslist';
 import Paginator from '@/Components/Homepage/Paginator';
 
+
 export default function Homepage(props) {
     return (
         <div className="min-h-screen bg-slate-800">

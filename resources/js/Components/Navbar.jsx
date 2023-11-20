@@ -27,7 +27,7 @@ return (
                     :
                     <>
                 <li>
-                    <Link href={route('dashboard')} as='button' clLinkssName="justify-between">
+                    <Link href={route('dashboard')} as='button' className="justify-between">
                         Dashboard
                         <span className="badge">New</span>
                     </Link>
